@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import logo from "../assets/logo.png";
+import logo from "../assets/Logo.png";
 import Button from "../utils/Button";
 import resume from "../assets/Rajnish__Resume.pdf";
 
