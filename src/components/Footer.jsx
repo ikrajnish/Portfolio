@@ -70,11 +70,11 @@ export default function Footer() {
           </div>
 
           <a
-            href="https://portfolio.greenhacker.tech/"
+            href="https://portfolio-ppba.vercel.app/"
             target="_blank"
             className="text-green-300 hover:text-white text-sm underline transition"
           >
-            portfolio.greenhacker.tech
+            portfolio-ppba.vercel.app/
           </a>
         </div>
 

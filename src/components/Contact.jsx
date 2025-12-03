@@ -46,11 +46,11 @@ export default function Contact() {
                 <div>
                   <p className="font-semibold text-white">Portfolio</p>
                   <a
-                    href="https://portfolio.greenhacker.tech/"
+                    href="https://portfolio-ppba.vercel.app/"
                     className="text-blue-300 hover:underline text-sm"
                     target="_blank"
                   >
-                    portfolio.greenhacker.tech
+                    portfolio-ppba.vercel.app
                   </a>
                 </div>
               </div>
