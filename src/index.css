@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+/* Register fonts */
+:root {
+  --font-bitcount: "Bitcount Single Ink", sans-serif;
+  --font-libertinus: "Libertinus Serif Display", serif;
+}
+
+/* Apply default body font */
+body {
+  font-family: var(--font-libertinus);
+}
+
+/* Apply heading font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-bitcount);
+}
