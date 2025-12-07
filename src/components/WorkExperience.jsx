@@ -3,8 +3,20 @@ import { Icon } from '@iconify/react'
 
 export default function WorkExperience() {
   const experiences = [
+    
     {
       id: 1,
+      role: 'Software Developer',
+      company: 'Stom Ai',
+      period: 'Sep 205 - Present',
+      bullets: [
+        'Delivered multiple React + Node applications',
+        'Implemented accessibility and responsive-first designs',
+        'Deployed apps on AWS and configured automated deployments'
+      ]
+    },
+    {
+      id: 2,
       role: 'Web Developer ',
       company: 'CreativePlus',
       period: 'Jan 2025 - Mar 2025',
@@ -15,16 +27,16 @@ export default function WorkExperience() {
       ]
     },
     {
-      id: 2,
-      role: 'Fullstack Developer (Freelance)',
+      id: 3,
+      role: 'FullStack Developer(Freelance)',
       company: 'Various Clients',
-      period: 'Jul 2024 - Jan 2025',
+      period: 'Aug 2024 - Jan 2025',
       bullets: [
-        'Delivered multiple React + Node applications',
-        'Implemented accessibility and responsive-first designs',
-        'Deployed apps on AWS and configured automated deployments'
+        'Built REST APIs with Node.js and Express',
+        'Integrated third-party services and improved response time by 20%',
+        'Wrote unit tests and improved CI pipeline'
       ]
-    }
+    },
   ]
 
   return (

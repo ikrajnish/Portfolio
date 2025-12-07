@@ -29,7 +29,7 @@ function Hero() {
           <span className="block text-2xl text-gray-300">Hello, I'm</span>
           <h1 className="text-5xl font-bold mt-2">Rajnish Kumar</h1>
           <p className="mt-4 text-lg text-gray-400">
-            Developer by passion, problem-solver by nature. 🚀
+            Developer by passion, problem-solver by nature. 
           </p>
         </div>
       </div>
@@ -40,7 +40,7 @@ function Hero() {
           I'm a <span className="text-[#915EFF]">Software Developer</span>.
         </h2>
         <span className="block mt-2 text-gray-300 text-lg">
-          Currently working at <span className="font-medium">Daya Electricals</span>.
+          Currently working at <span className="font-medium">Stom Ai</span>.
         </span>
       </div>
 
