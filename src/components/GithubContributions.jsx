@@ -21,7 +21,7 @@ export default function GithubContributions() {
   const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
 
   return (
-    <section className="py-16 bg-gradient-to-r from-black to-[#130428] text-white">
+    <section id="github-contributions" className="py-16 bg-gradient-to-r from-black to-[#130428] text-white">
       <div className="max-w-6xl mx-auto px-4">
 
         <h2 className="text-4xl md:text-3xl font-bold mb-10">
