@@ -10,7 +10,7 @@ function About() {
   ]
 
   return (
-    <section id='About' className="bg-gradient-to-r from-black to-[#130428] text-white py-16 px-6 md:px-20">
+    <section id='about' className="bg-gradient-to-r from-black to-[#130428] text-white py-16 px-6 md:px-20">
       <div className="max-w-5xl mx-auto bg-white/5 backdrop-blur-md rounded-2xl p-8 md:p-12 flex flex-col md:flex-row items-center gap-8 shadow-lg">
 
         {/* Left: Avatar / Intro */}

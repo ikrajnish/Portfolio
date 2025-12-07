@@ -23,7 +23,7 @@ export default function Skills() {
     { id: 18, name: "Docker", icon: "logos:docker-icon" },
   ];
   return (
-    <div id="Skills" className="bg-gradient-to-r from-black to-[#130428] text-white text-center py-16">
+    <div id="skills" className="bg-gradient-to-r from-black to-[#130428] text-white text-center py-16">
       <h1 className="text-4xl md:text-3xl mb-10">Skills</h1>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-3 lg:grid-cols-6 gap-6 max-w-6xl mx-auto px-4">
         {skill.map((sk) => (

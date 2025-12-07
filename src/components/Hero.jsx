@@ -3,7 +3,7 @@ import me from "../assets/Me.png";
 
 function Hero() {
   return (
-    <div id="Hero" className="relative bg-gradient-to-r from-black to-[#130428] text-white min-h-screen flex flex-col justify-center items-center px-6 overflow-hidden">
+    <div id="home" className="relative bg-gradient-to-r from-black to-[#130428] text-white min-h-screen flex flex-col justify-center items-center px-6 overflow-hidden">
       {/* Bouncing Balls (background layer) */}
       <div className="absolute inset-0 z-0">
         <div className="absolute top-30 left-14 w-10 h-10 bg-[#915EFF] rounded-full animate-bounce"></div>
